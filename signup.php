@@ -106,9 +106,6 @@
 	                        	<a class="btn btn-link-2" href="#">
 	                        		<i class="fa fa-google-plus"></i> Google Plus
 	                        	</a>
-                                <a class="btn btn-link-2" href="#">
-	                        		<i class="fa fa-google-plus"></i> Google Plus
-	                        	</a>
                         	</div>
                         </div>
                     </div>
