@@ -28,6 +28,9 @@
                     <div class="button" align="center">
                         <button class="w3-btn w3-blue w3-round"><a href="login.php">Login</a></button>
                     </div>
+                    <div class="button" align="center">
+                        <button class="w3-btn w3-blue w3-round"><a href="login.php">Login</a></button>
+                    </div>
                 </div>
             </div>
          </div>
